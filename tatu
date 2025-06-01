@@ -1,0 +1,44 @@
+[33mcommit f33140a93fb92d57a4083eb127c875c3e75f19e9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Medisa Aris Ginanjar <medisa.aris@eris.co.id>
+Date:   Sun Jun 1 20:42:50 2025 +0700
+
+    commit hanya gambar helmet saja
+
+[33mcommit 8fcfb6dbe8c89678c9a0bd0eb35682037138c05f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7a82352 8200b80
+Author: Medisa Aris Ginanjar <ginanjar.m.a@gmail.com>
+Date:   Sun Jun 1 20:22:32 2025 +0700
+
+    Merge pull request #1 from zayyinzac/main
+    
+    Create sample-repo-01-new
+
+[33mcommit 8200b80b58fd4aaaec5731d669e98bef4669283a[m
+Author: Zayyinah <99473197+zayyinzac@users.noreply.github.com>
+Date:   Sun Jun 1 20:18:53 2025 +0700
+
+    Create sample-repo-01-new
+
+[33mcommit 7a8235279589cd3e8d11894c7f5957a6cbda500e[m
+Author: Andrew Kristiandi <113590176+stayandcl@users.noreply.github.com>
+Date:   Sun Jun 1 20:13:22 2025 +0700
+
+    Scan Code
+
+[33mcommit ee6b28d5e5a4229750c1f07086afbe5403bc88a7[m
+Author: hendrikfajrin15 <hendrikfajrin15@gmail.com>
+Date:   Sun Jun 1 20:09:53 2025 +0700
+
+    Create index.html
+
+[33mcommit 647ae4d07d8ecbc791e7b90846d88041764799d1[m
+Author: Medisa Aris Ginanjar <ginanjar.m.a@gmail.com>
+Date:   Sun Jun 1 20:02:01 2025 +0700
+
+    Update LICENSE
+
+[33mcommit 865bae788d00c5ec892451624f3b407874e5491f[m
+Author: Medisa Aris Ginanjar <ginanjar.m.a@gmail.com>
+Date:   Sun Jun 1 19:58:55 2025 +0700
+
+    Initial commit
